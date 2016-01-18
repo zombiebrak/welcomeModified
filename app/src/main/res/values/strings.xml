@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Welcome Modified</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">Hello, world.</string>
+    <string name="welcome">Welcome to Android App Development!</string>
+    <string name="android_logo">Android Logo</string>
+    <string name="enjoy">Enjoy!</string>
+</resources>
